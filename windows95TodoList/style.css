@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  background-image: url("windows95Background.jpg");
+  background-size: cover
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  padding: 0 500px;
+  display: table-cell;
+  vertical-align:middle;
+}
+
+h1 {
+  font-family: Roboto, sans-serif;
+  color: #ffffff;
+  font-size: 110%;
+  padding: 1% 0 1.5% 1%;
+  }
+
+
+.todobody {
+  width:400px; 
+  margin:0 auto;
+  background-color: #c0c0c0;
+  border-style: outset;
+  border-width: 5%;
+  box-shadow: 1px 1px 5px #010101;
+}
+
+.todotitle{
+  background-color:#000080;
+  margin: -3% 0% 3% 0%;
+}
+
+.bttn{
+  background-color: #c0c0c0;
+  border-style: outset;
+  box-shadow: 1px 1px 1px #010101;
+  text-decoration: underline;
+}
+
+.x{
+  background-color: #c0c0c0;
+  max-width: 5.5%;
+  font-family: Roboto, sans-serif;
+  margin: -9.5% 1% -1% 93.5%; 
+  border-style: outset;
+  border-width:-1%
+  
+}
